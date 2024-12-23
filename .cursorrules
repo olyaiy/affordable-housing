@@ -35,9 +35,16 @@ affordable-housing/
 │       │   ├── scrapers/     
 │       │   │   └── rew.ts    # REW.ca scraper
 │       │   └── types/        # TypeScript types
+│       │   └── index.ts
+│       ├── results/          # New directory for storing scraped data
+│       ├── debug/            # Existing debug directory
 │       ├── .env.example
 │       └── package.json
 ├── .gitignore
 └── package.json
 ```
  
+Be helpful and provide detailed instructions and code examples when asked. 
+Ensure the code that you provide is clean, readable, and follows best practices. 
+Ensure that the code is well-documented and follows the project's coding standards. 
+Think step by step, don't be lazy.
